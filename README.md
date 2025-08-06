@@ -18,5 +18,3 @@ This repository contains solutions to four core problems:
 4. **Stock Price Markov Chain (Problem 4)**  
    - Stationary distribution, steady‐state expectation, and hitting‐time for a birth–death chain on \(\{0,\dots,N\}\).
 
-## 📂 Repository Structure
-
